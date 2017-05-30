@@ -1,0 +1,14 @@
+C:\Users\fsociety\documents\visual studio 2017\Projects\WebPortal\Common\bin\Debug\Common.dll
+C:\Users\fsociety\documents\visual studio 2017\Projects\WebPortal\Common\bin\Debug\Common.pdb
+C:\Users\fsociety\documents\visual studio 2017\Projects\WebPortal\Common\bin\Debug\MySql.Data.dll
+C:\Users\fsociety\documents\visual studio 2017\Projects\WebPortal\Common\bin\Debug\MySql.Data.xml
+C:\Users\fsociety\documents\visual studio 2017\Projects\WebPortal\Common\obj\Debug\Common.dll
+C:\Users\fsociety\documents\visual studio 2017\Projects\WebPortal\Common\obj\Debug\Common.pdb
+C:\Users\fsociety\documents\visual studio 2017\Projects\WebPortal\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+C:\Users\hasanmukit\Documents\WebPortal\Common\bin\Debug\Common.dll
+C:\Users\hasanmukit\Documents\WebPortal\Common\bin\Debug\Common.pdb
+C:\Users\hasanmukit\Documents\WebPortal\Common\bin\Debug\MySql.Data.dll
+C:\Users\hasanmukit\Documents\WebPortal\Common\bin\Debug\MySql.Data.xml
+C:\Users\hasanmukit\Documents\WebPortal\Common\obj\Debug\Common.dll
+C:\Users\hasanmukit\Documents\WebPortal\Common\obj\Debug\Common.pdb
+C:\Users\hasanmukit\Documents\WebPortal\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache

@@ -1,0 +1,22 @@
+C:\Users\fsociety\documents\visual studio 2017\Projects\WebPortal\DAL\bin\Debug\DAL.dll
+C:\Users\fsociety\documents\visual studio 2017\Projects\WebPortal\DAL\bin\Debug\DAL.pdb
+C:\Users\fsociety\documents\visual studio 2017\Projects\WebPortal\DAL\bin\Debug\BO.dll
+C:\Users\fsociety\documents\visual studio 2017\Projects\WebPortal\DAL\bin\Debug\Common.dll
+C:\Users\fsociety\documents\visual studio 2017\Projects\WebPortal\DAL\bin\Debug\MySql.Data.dll
+C:\Users\fsociety\documents\visual studio 2017\Projects\WebPortal\DAL\bin\Debug\BO.pdb
+C:\Users\fsociety\documents\visual studio 2017\Projects\WebPortal\DAL\bin\Debug\Common.pdb
+C:\Users\fsociety\documents\visual studio 2017\Projects\WebPortal\DAL\bin\Debug\MySql.Data.xml
+C:\Users\fsociety\documents\visual studio 2017\Projects\WebPortal\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\fsociety\documents\visual studio 2017\Projects\WebPortal\DAL\obj\Debug\DAL.dll
+C:\Users\fsociety\documents\visual studio 2017\Projects\WebPortal\DAL\obj\Debug\DAL.pdb
+C:\Users\hasanmukit\Documents\WebPortal\DAL\bin\Debug\DAL.dll
+C:\Users\hasanmukit\Documents\WebPortal\DAL\bin\Debug\DAL.pdb
+C:\Users\hasanmukit\Documents\WebPortal\DAL\bin\Debug\BO.dll
+C:\Users\hasanmukit\Documents\WebPortal\DAL\bin\Debug\Common.dll
+C:\Users\hasanmukit\Documents\WebPortal\DAL\bin\Debug\MySql.Data.dll
+C:\Users\hasanmukit\Documents\WebPortal\DAL\bin\Debug\BO.pdb
+C:\Users\hasanmukit\Documents\WebPortal\DAL\bin\Debug\Common.pdb
+C:\Users\hasanmukit\Documents\WebPortal\DAL\bin\Debug\MySql.Data.xml
+C:\Users\hasanmukit\Documents\WebPortal\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\hasanmukit\Documents\WebPortal\DAL\obj\Debug\DAL.dll
+C:\Users\hasanmukit\Documents\WebPortal\DAL\obj\Debug\DAL.pdb

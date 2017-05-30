@@ -1,0 +1,89 @@
+C:\Users\fsociety\documents\visual studio 2017\Projects\WebPortal\InteractiveWebPortal\obj\Debug\InteractiveWebPortal.csprojResolveAssemblyReference.cache
+C:\Users\fsociety\documents\visual studio 2017\Projects\WebPortal\InteractiveWebPortal\bin\roslyn\csc.exe
+C:\Users\fsociety\documents\visual studio 2017\Projects\WebPortal\InteractiveWebPortal\bin\roslyn\csc.exe.config
+C:\Users\fsociety\documents\visual studio 2017\Projects\WebPortal\InteractiveWebPortal\bin\roslyn\csc.rsp
+C:\Users\fsociety\documents\visual studio 2017\Projects\WebPortal\InteractiveWebPortal\bin\roslyn\csi.exe
+C:\Users\fsociety\documents\visual studio 2017\Projects\WebPortal\InteractiveWebPortal\bin\roslyn\csi.rsp
+C:\Users\fsociety\documents\visual studio 2017\Projects\WebPortal\InteractiveWebPortal\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\fsociety\documents\visual studio 2017\Projects\WebPortal\InteractiveWebPortal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\fsociety\documents\visual studio 2017\Projects\WebPortal\InteractiveWebPortal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\fsociety\documents\visual studio 2017\Projects\WebPortal\InteractiveWebPortal\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\fsociety\documents\visual studio 2017\Projects\WebPortal\InteractiveWebPortal\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\fsociety\documents\visual studio 2017\Projects\WebPortal\InteractiveWebPortal\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\fsociety\documents\visual studio 2017\Projects\WebPortal\InteractiveWebPortal\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\fsociety\documents\visual studio 2017\Projects\WebPortal\InteractiveWebPortal\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\fsociety\documents\visual studio 2017\Projects\WebPortal\InteractiveWebPortal\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\fsociety\documents\visual studio 2017\Projects\WebPortal\InteractiveWebPortal\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\fsociety\documents\visual studio 2017\Projects\WebPortal\InteractiveWebPortal\bin\roslyn\System.AppContext.dll
+C:\Users\fsociety\documents\visual studio 2017\Projects\WebPortal\InteractiveWebPortal\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\fsociety\documents\visual studio 2017\Projects\WebPortal\InteractiveWebPortal\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\fsociety\documents\visual studio 2017\Projects\WebPortal\InteractiveWebPortal\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\fsociety\documents\visual studio 2017\Projects\WebPortal\InteractiveWebPortal\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\fsociety\documents\visual studio 2017\Projects\WebPortal\InteractiveWebPortal\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\fsociety\documents\visual studio 2017\Projects\WebPortal\InteractiveWebPortal\bin\roslyn\vbc.exe
+C:\Users\fsociety\documents\visual studio 2017\Projects\WebPortal\InteractiveWebPortal\bin\roslyn\vbc.exe.config
+C:\Users\fsociety\documents\visual studio 2017\Projects\WebPortal\InteractiveWebPortal\bin\roslyn\vbc.rsp
+C:\Users\fsociety\documents\visual studio 2017\Projects\WebPortal\InteractiveWebPortal\bin\roslyn\VBCSCompiler.exe
+C:\Users\fsociety\documents\visual studio 2017\Projects\WebPortal\InteractiveWebPortal\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\fsociety\documents\visual studio 2017\Projects\WebPortal\InteractiveWebPortal\bin\InteractiveWebPortal.dll.config
+C:\Users\fsociety\documents\visual studio 2017\Projects\WebPortal\InteractiveWebPortal\bin\InteractiveWebPortal.dll
+C:\Users\fsociety\documents\visual studio 2017\Projects\WebPortal\InteractiveWebPortal\bin\InteractiveWebPortal.pdb
+C:\Users\fsociety\documents\visual studio 2017\Projects\WebPortal\InteractiveWebPortal\bin\BL.dll
+C:\Users\fsociety\documents\visual studio 2017\Projects\WebPortal\InteractiveWebPortal\bin\BO.dll
+C:\Users\fsociety\documents\visual studio 2017\Projects\WebPortal\InteractiveWebPortal\bin\Common.dll
+C:\Users\fsociety\documents\visual studio 2017\Projects\WebPortal\InteractiveWebPortal\bin\DAL.dll
+C:\Users\fsociety\documents\visual studio 2017\Projects\WebPortal\InteractiveWebPortal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\fsociety\documents\visual studio 2017\Projects\WebPortal\InteractiveWebPortal\bin\MySql.Data.dll
+C:\Users\fsociety\documents\visual studio 2017\Projects\WebPortal\InteractiveWebPortal\bin\BL.pdb
+C:\Users\fsociety\documents\visual studio 2017\Projects\WebPortal\InteractiveWebPortal\bin\BO.pdb
+C:\Users\fsociety\documents\visual studio 2017\Projects\WebPortal\InteractiveWebPortal\bin\Common.pdb
+C:\Users\fsociety\documents\visual studio 2017\Projects\WebPortal\InteractiveWebPortal\bin\DAL.pdb
+C:\Users\fsociety\documents\visual studio 2017\Projects\WebPortal\InteractiveWebPortal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\fsociety\documents\visual studio 2017\Projects\WebPortal\InteractiveWebPortal\bin\MySql.Data.xml
+C:\Users\fsociety\documents\visual studio 2017\Projects\WebPortal\InteractiveWebPortal\obj\Debug\InteractiveWebPortal.dll
+C:\Users\fsociety\documents\visual studio 2017\Projects\WebPortal\InteractiveWebPortal\obj\Debug\InteractiveWebPortal.pdb
+C:\Users\hasanmukit\Documents\WebPortal\InteractiveWebPortal\bin\roslyn\csc.exe
+C:\Users\hasanmukit\Documents\WebPortal\InteractiveWebPortal\bin\roslyn\csc.exe.config
+C:\Users\hasanmukit\Documents\WebPortal\InteractiveWebPortal\bin\roslyn\csc.rsp
+C:\Users\hasanmukit\Documents\WebPortal\InteractiveWebPortal\bin\roslyn\csi.exe
+C:\Users\hasanmukit\Documents\WebPortal\InteractiveWebPortal\bin\roslyn\csi.rsp
+C:\Users\hasanmukit\Documents\WebPortal\InteractiveWebPortal\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\hasanmukit\Documents\WebPortal\InteractiveWebPortal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\hasanmukit\Documents\WebPortal\InteractiveWebPortal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\hasanmukit\Documents\WebPortal\InteractiveWebPortal\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\hasanmukit\Documents\WebPortal\InteractiveWebPortal\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\hasanmukit\Documents\WebPortal\InteractiveWebPortal\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\hasanmukit\Documents\WebPortal\InteractiveWebPortal\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\hasanmukit\Documents\WebPortal\InteractiveWebPortal\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\hasanmukit\Documents\WebPortal\InteractiveWebPortal\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\hasanmukit\Documents\WebPortal\InteractiveWebPortal\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\hasanmukit\Documents\WebPortal\InteractiveWebPortal\bin\roslyn\System.AppContext.dll
+C:\Users\hasanmukit\Documents\WebPortal\InteractiveWebPortal\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\hasanmukit\Documents\WebPortal\InteractiveWebPortal\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\hasanmukit\Documents\WebPortal\InteractiveWebPortal\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\hasanmukit\Documents\WebPortal\InteractiveWebPortal\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\hasanmukit\Documents\WebPortal\InteractiveWebPortal\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\hasanmukit\Documents\WebPortal\InteractiveWebPortal\bin\roslyn\vbc.exe
+C:\Users\hasanmukit\Documents\WebPortal\InteractiveWebPortal\bin\roslyn\vbc.exe.config
+C:\Users\hasanmukit\Documents\WebPortal\InteractiveWebPortal\bin\roslyn\vbc.rsp
+C:\Users\hasanmukit\Documents\WebPortal\InteractiveWebPortal\bin\roslyn\VBCSCompiler.exe
+C:\Users\hasanmukit\Documents\WebPortal\InteractiveWebPortal\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\hasanmukit\Documents\WebPortal\InteractiveWebPortal\bin\InteractiveWebPortal.dll.config
+C:\Users\hasanmukit\Documents\WebPortal\InteractiveWebPortal\bin\InteractiveWebPortal.dll
+C:\Users\hasanmukit\Documents\WebPortal\InteractiveWebPortal\bin\InteractiveWebPortal.pdb
+C:\Users\hasanmukit\Documents\WebPortal\InteractiveWebPortal\bin\AjaxControlToolkit.dll
+C:\Users\hasanmukit\Documents\WebPortal\InteractiveWebPortal\bin\BL.dll
+C:\Users\hasanmukit\Documents\WebPortal\InteractiveWebPortal\bin\BO.dll
+C:\Users\hasanmukit\Documents\WebPortal\InteractiveWebPortal\bin\Common.dll
+C:\Users\hasanmukit\Documents\WebPortal\InteractiveWebPortal\bin\DAL.dll
+C:\Users\hasanmukit\Documents\WebPortal\InteractiveWebPortal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\hasanmukit\Documents\WebPortal\InteractiveWebPortal\bin\MySql.Data.dll
+C:\Users\hasanmukit\Documents\WebPortal\InteractiveWebPortal\bin\BL.pdb
+C:\Users\hasanmukit\Documents\WebPortal\InteractiveWebPortal\bin\BO.pdb
+C:\Users\hasanmukit\Documents\WebPortal\InteractiveWebPortal\bin\Common.pdb
+C:\Users\hasanmukit\Documents\WebPortal\InteractiveWebPortal\bin\DAL.pdb
+C:\Users\hasanmukit\Documents\WebPortal\InteractiveWebPortal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\hasanmukit\Documents\WebPortal\InteractiveWebPortal\bin\MySql.Data.xml
+C:\Users\hasanmukit\Documents\WebPortal\InteractiveWebPortal\obj\Debug\InteractiveWebPortal.csprojResolveAssemblyReference.cache
+C:\Users\hasanmukit\Documents\WebPortal\InteractiveWebPortal\obj\Debug\InteractiveWebPortal.dll
+C:\Users\hasanmukit\Documents\WebPortal\InteractiveWebPortal\obj\Debug\InteractiveWebPortal.pdb

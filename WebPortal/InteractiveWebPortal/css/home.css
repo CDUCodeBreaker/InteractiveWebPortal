@@ -1,0 +1,28 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+	background-color: #707070;
+;
+}
+.my-navbar{
+	border: 0;
+	border-radius: 0;
+	background: gray;
+	
+}
+.my-navbar .navbar-nav li a {
+	color: white;
+	
+	
+}
+.my-navbar .navbar-nav:hover{
+	 color: #ffbbbc;
+}
+	
+}
+.my-navbar .navbar-brand{
+	color: white;
+	
+	
+}

@@ -1,0 +1,10 @@
+C:\Users\fsociety\documents\visual studio 2017\Projects\WebPortal\BO\bin\Debug\BO.dll
+C:\Users\fsociety\documents\visual studio 2017\Projects\WebPortal\BO\bin\Debug\BO.pdb
+C:\Users\fsociety\documents\visual studio 2017\Projects\WebPortal\BO\obj\Debug\BO.dll
+C:\Users\fsociety\documents\visual studio 2017\Projects\WebPortal\BO\obj\Debug\BO.pdb
+C:\Users\fsociety\documents\visual studio 2017\Projects\WebPortal\BO\obj\Debug\BO.csprojResolveAssemblyReference.cache
+C:\Users\hasanmukit\Documents\WebPortal\BO\bin\Debug\BO.dll
+C:\Users\hasanmukit\Documents\WebPortal\BO\bin\Debug\BO.pdb
+C:\Users\hasanmukit\Documents\WebPortal\BO\obj\Debug\BO.dll
+C:\Users\hasanmukit\Documents\WebPortal\BO\obj\Debug\BO.pdb
+C:\Users\hasanmukit\Documents\WebPortal\BO\obj\Debug\BO.csprojResolveAssemblyReference.cache
